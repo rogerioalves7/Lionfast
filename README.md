@@ -34,33 +34,9 @@ A pasta de trabalho é composta por três planilhas principais, organizadas de f
 
 O sistema foi projetado para ser mais do que uma simples planilha — trata-se de um **ambiente de apoio inteligente e funcional**, com os seguintes diferenciais:
 
-- ✅ **Validação de dados:** evita erros comuns de preenchimento, como campos obrigatórios em branco ou formatações inválidas (ex: CPF, CNPJ).
 - 🧭 **Menu interativo:** botões com links internos que facilitam a navegação entre as planilhas, tornando a experiência mais fluida.
 - 🔒 **Proteção de planilha:** as áreas com fórmulas ou estrutura foram protegidas para evitar edições acidentais e garantir a integridade do sistema.
 - 🌐 **Integração com LinkedIn:** botão com link direto para o perfil profissional do desenvolvedor, facilitando o contato para feedback ou contribuições.
-
-## 📈 Exemplo de Uso
-
-### Cenário: Contribuinte com múltiplas fontes de renda
-
-**Nome:** João da Silva  
-**CPF:** 123.456.789-00  
-**Fontes de Rendimento:**
-- Salário CLT – Empresa XPTO S/A
-- Dividendos de ações
-- Rendimento de aluguel
-
-**Despesas declaradas:**
-- Plano de saúde familiar  
-- Mensalidades escolares dos filhos
-
-Com o preenchimento das três telas do sistema, João consegue:
-
-- Organizar e revisar todas as suas fontes de receita;
-- Registrar gastos dedutíveis para reduzir o imposto devido;
-- Exportar os dados com facilidade para preencher sua declaração oficial no sistema da Receita Federal.
-
-O sistema ainda alerta caso algum campo obrigatório esteja incompleto, promovendo maior segurança na entrega da declaração.
 
 ## ⚠️ Limitações e Possíveis Expansões
 
